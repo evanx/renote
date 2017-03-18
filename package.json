@@ -20,7 +20,7 @@
     "cli-color": "^1.1.0",
     "get-set-default": "^0.1.0",
     "lodash": "^4.17.4",
-    "redis-koa-app": "^0.8.8",
+    "redis-koa-app": "^0.9.11",
     "render-html-rpf": "^0.1.2"
   }
 }
